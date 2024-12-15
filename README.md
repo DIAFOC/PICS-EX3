@@ -9,3 +9,7 @@
 # Fundamentos de Computadores
 ## Profesora: Rebeca Rodirguez Pantoja 
     Antecedentes de los computadores, origen de la red, partes del computador, nube, protocolos
+
+# Programacion I 
+## Profesor: Jonathan Ulises Miranda Charles 
+    Markdown, Flujo de Git, Control de versiones, HTML, CSS, Webdeb frontend 
