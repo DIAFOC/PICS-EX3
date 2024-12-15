@@ -19,3 +19,5 @@
     Calculo Diferencial y Calculo Integral
 
 Merge on main 
+
+Creando la eitqueta v1.0.0
