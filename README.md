@@ -12,4 +12,8 @@
 
 # Programacion I 
 ## Profesor: Jonathan Ulises Miranda Charles 
-    Markdown, Flujo de Git, Control de versiones, HTML, CSS, Webdeb frontend 
+    Markdown, Flujo de Git, Control de versiones, HTML, CSS, Webdeb frontend
+
+# Matematicas i
+## Profesora: Viridiana Perez Marquez 
+    Calculo Diferencial y Calculo Integral
