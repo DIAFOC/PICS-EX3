@@ -22,3 +22,5 @@ Merge on main
 
 # Creando la eitqueta v1.0.0
 # Creando la version 1.1.0 de este repositorio 
+
+log add 
