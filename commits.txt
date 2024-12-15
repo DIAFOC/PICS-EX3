@@ -1,0 +1,41 @@
+commit e5f1950ba9a30be1edc0b6ecb81b9ac62eda8b77
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:55:08 2024 -0600
+
+    Merge
+
+commit 81ce5a72de8de9e6918d88d41d9cb9b9ff46edeb
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:48:29 2024 -0600
+
+    Matematicas I
+
+commit f0c1ed65e7686d9602f48449ef028aba05b97fd9
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:43:31 2024 -0600
+
+    Programacion I
+
+commit 45aab5899bf4a25bd161d82261c909c15833cef3
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:40:26 2024 -0600
+
+    Fundamentos de computadores
+
+commit 6fb83053d469c86405a95b7daef30295fc130313
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:31:49 2024 -0600
+
+    Algebra
+
+commit 9515faa7f3861c0f39809f2d2601a08372991922
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 04:23:42 2024 -0600
+
+    Introduccion a la ciberseguridad
+
+commit 088ffe2b4af3174660eab920a9614e1de149429f
+Author: DIAFOC <oneisonlyone@protonmail.com>
+Date:   Sun Dec 15 03:49:34 2024 -0600
+
+    Primer commit
