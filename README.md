@@ -17,3 +17,5 @@
 # Matematicas i
 ## Profesora: Viridiana Perez Marquez 
     Calculo Diferencial y Calculo Integral
+
+Merge on main 
